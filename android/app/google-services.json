@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305946997059",
+    "project_id": "ugga-4914d",
+    "storage_bucket": "ugga-4914d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305946997059:android:ac55ac4f7eaf7b4720bff6",
+        "android_client_info": {
+          "package_name": "com.example.ugga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305946997059-7ha9bk9kd5irmmkekuept9pi3v7373ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLtmc8vST3f_lWLowiBU7jiJ1dsu57MY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305946997059-7ha9bk9kd5irmmkekuept9pi3v7373ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
